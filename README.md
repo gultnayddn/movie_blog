@@ -271,11 +271,3 @@ dizi-blog/
 
 Bu proje eğitim amaçlı oluşturulmuştur. Özgürce kullanabilir ve değiştirebilirsiniz.
 
-## 👨‍💻 Geliştirici
-
-**Dizi-Film Blog** | PHP + MySQL Örnek Projesi
-
----
-
-**Hazırlanan**: 2026 Ocak
-**Versiyon**: 1.0
